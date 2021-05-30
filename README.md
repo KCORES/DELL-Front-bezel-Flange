@@ -1,6 +1,6 @@
 # DELL-Front-bezel-Flange
 
-### version ：0.1 bate
+### version ：0.1
 
 -----------------------
 |Author |MistyMoon              |
