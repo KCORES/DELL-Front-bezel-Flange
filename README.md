@@ -3,8 +3,9 @@
 ### version ：0.1 bate
 
 -----------------------
-|Author|MistyMoon|
-
+|Author |MistyMoon              |
+|---    |---                    |
+|E-mail |MistyMoonR@outlook.com |
 -----------------------
 
 ### 描述:
